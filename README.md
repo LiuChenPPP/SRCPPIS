@@ -20,9 +20,11 @@ If you want to test the performance on your own data, please make sure you insta
 
 # Reproduction
 python3 train.py --dataset 1082
+
 python3 train.py --dataset 737
 # Test
 python3 test.py --dataset 737
+
 python3 test.py --dataset 1082
 
 
