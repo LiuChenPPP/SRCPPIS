@@ -19,9 +19,11 @@ If you want to test the performance on your own data, please make sure you insta
 (3)Protbert(L*1024) can be obtained by "https://huggingface.co/Rostlab/prot_bert".
 
 # Reproduction
-python3 train.py
+python3 train.py --dataset 1082
+python3 train.py --dataset 737
 # Test
-python3 test.py
+python3 test.py --dataset 737
+python3 test.py --dataset 1082
 
 
 
