@@ -5,7 +5,10 @@ with cross attention to predict protein protein
 interaction site"
 # Environments
 Description:	Ubuntu 20.04.5 LTSd
+
 Python Version:  3.9.13
+
+please kindly refer to the requirments.txt for other packages used in our work.
 
 
 
