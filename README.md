@@ -3,6 +3,11 @@ The source code of "SRCPPIS: Utilizing structure based masking
 mechanism and residued based graph neural network
 with cross attention to predict protein protein
 interaction site"
+# Environments
+Description:	Ubuntu 20.04.5 LTSd
+Python Version:  3.9.13
+
+
 
 # Dataset
 Since our dataset exceeds the maximum upload capacity of Github, please kindly download the data in "https://drive.google.com/drive/folders/1S1G_wf40CJZGtnIr3-2gYLiztKxl_wqV?usp=sharing".
